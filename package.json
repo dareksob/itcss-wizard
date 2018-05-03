@@ -1,0 +1,11 @@
+{
+  "name": "itcss-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Darius Sobczak<mail@dsobczak.de>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
